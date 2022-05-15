@@ -6,6 +6,7 @@ To create a stopwatch I will need some variables to start with.
 all of these will be added into a string and printed onto the screen.
 
 The logic behind incrementing the variables will look similar to the example below:
+~~~
 if (timeSeconds > 59){
     timeSeconds = 0;
     timeMinutes += 1;
@@ -15,10 +16,13 @@ if (timeSeconds > 59){
 } else {
     timeSeconds += 1;
 }
+~~~
 obviously in order to incrememt the minutes and hours, I have to increment seconds.
 This can be done by running a function to increment the seconds variable with setInterval 
+~~~
 function incrementSeconds(){
     // run logic gates from above.
 
 }
+~~~
 var cancel = setInterval(incrementSeconds, 1000);
