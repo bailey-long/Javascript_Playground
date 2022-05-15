@@ -24,5 +24,5 @@ function incrementSeconds(){
     // run logic gates from above.
 
 }
-~~~
 var cancel = setInterval(incrementSeconds, 1000);
+~~~
