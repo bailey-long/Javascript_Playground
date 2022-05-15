@@ -1,0 +1,38 @@
+#stopwatch{
+    background-color: cornsilk;
+    margin-right:60%;
+    margin-left: 25%;
+}
+#seconds-counter{
+    font-size: 50px;
+}
+#start-button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 25%;
+    cursor: pointer;
+}
+#start-button:hover{
+    background-color: rgb(39, 39, 39);
+}
+#stop-button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 25%;
+    cursor: pointer;
+}
+#stop-button:hover{
+    background-color: rgb(39, 39, 39);
+}
+#reset-button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 25%;
+    cursor: pointer;
+}
+#reset-button:hover{
+    background-color: rgb(39, 39, 39);
+}

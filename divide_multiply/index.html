@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Multiply or divide 2 numbers</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <form class="calculator">
+            <p>1st number : <input type="text" id="firstNumber" /> </p>
+            <p>2nd number: <input type="text" id="secondNumber" /> </p><br>
+            <input type="button" onclick="multiplyBy()" Value="Multiply" />
+            <input type="button" onclick="divideBy()" Value="Divide" />
+            <p>The result is: </p>
+            <span id="result"></span> 
+        </form>
+        <script src="app.js" async defer></script>
+    </body>
+</html>
