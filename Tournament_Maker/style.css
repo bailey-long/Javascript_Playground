@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    color: black;
+    background-color: wheat;
+  }
+
+  /**************
+  Form styling 
+  **************/
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #5597dd;
+
+    margin-bottom: 10px;
+  }
+  label, input {
+    display: block;
+    margin-bottom: 10px;
+  }
+  input[type="text"] {
+    width: 94%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  input[type="submit"], #startTournament {
+    background-color: #2d77ff;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+
+  /**************
+  Contestant display styling 
+  **************/
+  #contestants {
+    max-width: 400px;
+    margin: 0 auto;
+
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #5597dd;
+
+    margin-bottom: 10px;
+  }
+
+  #contestants li {
+    background-color: #2d77ff;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  /**************
+  Bracket styling 
+  **************/
+  #bracket {
+    max-width: 400px;
+    margin: 0 auto;
+
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #5597dd;
+
+    margin-bottom: 10px;
+  }
+  
+  .match {
+    justify-content: center;
+    display: flex;
+    margin: 20px 0;
+  }
+  
+  .contestant {
+    margin: 0 10px;
+    width: 150px;
+    padding: 10px;
+    background-color: #2a65be;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* Style for winner */
+  .contestant.winner {
+    background-color: #4caf50;
+    color: white;
+  }

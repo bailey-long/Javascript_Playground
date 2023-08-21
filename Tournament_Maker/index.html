@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Commander Tournament</h1>
+    <form id="contestantForm">
+        <h1>Entry</h1>
+        <label for="name">Contestant Name:</label>
+        <input type="text" id="name" name="name" required>
+        
+        <label for="commander">Commander:</label>
+        <input type="text" id="commander" name="commander" required>
+        
+        <input type="submit" value="Enter Tournament">
+
+    </form>
+
+    <div id="contestants">
+        <h2>Contestants</h2>
+        <ul id="contestantList"></ul>
+
+        <input type="button" value="Start Tournament" id="startTournament">
+    </div>
+
+    
+    <div id="bracket">
+        <h2>Bracket</h2>
+        <div id="bracketMatches"></div>
+    </div>
+    
+
+
+    <script src="app.js"></script>
+
+
+    
+</body>
+</html>
