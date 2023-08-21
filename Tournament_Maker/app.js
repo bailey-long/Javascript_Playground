@@ -26,8 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Attach event listener to parent element using event delegation
     document.addEventListener('click', function(event) {
       if (event.target.id === 'startTournament') {
-              // remove the button
-              document.getElementById('startTournament').remove();
         // Code for generating and displaying bracket matches
         const matches = [];
   
