@@ -2,13 +2,20 @@ let clock = {
 seconds: 0,
 minutes: 0,
 hours: 0,
-time: 0,
+time: 0 + " : " + 0 + " : " + 0
 }
 
-var display = document.getElementById('seconds-counter');
+//get display of clock
+var display = document.getElementById('timer');
+//Set starting display time
 display.innerText = clock.time;
-var cancel = setInterval(incrementSeconds, 1000);
-clock.time = 0 + ":" + 0 + ":" + 0;
+
+function startTimer(){
+}
+
+function stopTimer(){
+    setInterval(incrementSeconds(), null);
+}
 
 function resetTime(){
     clock.seconds = 0;
@@ -17,7 +24,9 @@ function resetTime(){
     clock.time = 0; 
 }
 
+//Run timer
 function incrementSeconds(){
+
     if (clock.seconds == 59){
         clock.seconds = 0;
         clock.minutes += 1;

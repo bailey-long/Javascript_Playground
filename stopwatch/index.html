@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
     <head>
         <meta charset="utf-8">
@@ -11,14 +7,18 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="styles.css">
-    </head>
-    <body>
-        <div id = 'stopwatch'>
+
         <script src="app.js" async defer></script>
-        <div id = 'seconds-counter'></div>
-        <div id = 'stop-button'> STOP </div>
-        <div id = 'start-button' onclick="incrementSeconds()"> START</div>
-        <div id = 'reset-button' onclick="resetTime()"> RESET </div>
+    </head>
+
+    <body>
+        <div id ='stopwatch'>
+            <div id ='timer'></div>
+            <div class="buttonContainer">
+                <div id ='start-button' class="button" onclick="startTImer()"> START</div>
+                <div id ='stop-button' class="button" onclick="stopTimer()"> STOP </div>
+                <div id ='reset-button' class="button" onclick="resetTime()"> RESET </div>
+            </div>
         </div>
     </body>
 </html>

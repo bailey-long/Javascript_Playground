@@ -1,38 +1,71 @@
+:root{
+    --buttonColor: black;
+    --buttonHover: grey;
+    --timerBackground: wheat;
+
+    --buttonFontColor: white;
+}
+
 #stopwatch{
-    background-color: cornsilk;
+    background-color: var(--timerBackground);
+    border: 2px solid black;
+    border-radius: 5px;
     margin-right:60%;
     margin-left: 25%;
 }
-#seconds-counter{
+#timer{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
     font-size: 50px;
 }
+
+.buttonContainer{
+    display: flex;
+    text-align: center;
+}
+.button{
+    transition: background-color 0.3s;
+}
+
 #start-button{
-    background-color: black;
-    color: white;
+    background-color: var(--buttonColor);
+    color: var(--buttonFontColor);
     padding: 10px;
     width: 25%;
     cursor: pointer;
+
+    user-select: none;
 }
 #start-button:hover{
-    background-color: rgb(39, 39, 39);
+    background-color: var(--buttonHover);
 }
+
 #stop-button{
-    background-color: black;
-    color: white;
+    background-color: var(--buttonColor);
+    color: var(--buttonFontColor);
     padding: 10px;
     width: 25%;
     cursor: pointer;
+
+    user-select: none;
+
+    border-left: 2px solid var(--buttonFontColor);
+    border-right: 2px solid var(--buttonFontColor);
 }
 #stop-button:hover{
-    background-color: rgb(39, 39, 39);
+    background-color: var(--buttonHover);
 }
+
 #reset-button{
-    background-color: black;
-    color: white;
+    background-color: var(--buttonColor);
+    color: var(--buttonFontColor);
     padding: 10px;
     width: 25%;
     cursor: pointer;
+
+    user-select: none;
 }
 #reset-button:hover{
-    background-color: rgb(39, 39, 39);
+    background-color: var(--buttonHover);
 }
