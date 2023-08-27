@@ -15,22 +15,27 @@
         
         <label for="commander">Commander:</label>
         <input type="text" id="commander" name="commander" required>
-        
         <input type="submit" value="Enter Tournament">
 
     </form>
 
     <div id="contestants">
         <h2>Contestants</h2>
-        <ul id="contestantList"></ul>
 
-        <input type="button" value="Start Tournament" id="startTournament">
+        <div class="buttonDiv">
+            <input type="button" value="Start Tournament" id="contestantsButton">
+            <input type="button" value="Clear Contestants" id="contestantsButton">
+        </div>
     </div>
 
     
     <div id="bracket">
         <h2>Bracket</h2>
         <div id="bracketMatches"></div>
+    </div>
+
+    <div class="footer">
+        <p>Created by: <a href="https://bailey-long.github.io/src/index/">Bailey Long</a>
     </div>
 
     <script src="app.js"></script>    

@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
     // Attach event listener to parent element using event delegation
     document.addEventListener('click', function(event) {
-      if (event.target.id === 'startTournament') {
+      if (event.target.value === 'Start Tournament') {
         // Code for generating and displaying bracket matches
         const matches = [];
   
@@ -61,6 +61,17 @@ document.addEventListener('DOMContentLoaded', function() {
   
           bracketMatchesDiv.appendChild(matchDiv);
         }
+      }
+      if (event.target.value === 'Clear Contestants'){
+        contestants.length = 0;
+        //Clear only contestants, leave buttons and header
+        contestantDisplayer.innerHTML = `        
+        <h2>Contestants</h2>
+        
+        <div class="buttonDiv">
+            <input type="button" value="Start Tournament" id="contestantsButton">
+            <input type="button" value="Clear Contestants" id="contestantsButton">
+        </div>`;
       }
     });
   });

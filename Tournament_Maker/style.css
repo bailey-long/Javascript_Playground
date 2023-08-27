@@ -6,6 +6,10 @@ body {
     color: black;
     background-color: wheat;
   }
+  h1, h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+  }
 
   /**************
   Form styling 
@@ -25,19 +29,36 @@ body {
     display: block;
     margin-bottom: 10px;
   }
+
   input[type="text"] {
     width: 94%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
   }
-  input[type="submit"], #startTournament {
+  .buttonDiv{
+    display: flex;
+  }
+  .buttonDiv #contestantsButton{
+    margin: 15px;
+  }
+
+  input[type="submit"], #contestantsButton{
     background-color: #2d77ff;
     padding: 10px 20px;
     border: 2px solid black;
     border-radius: 5px;
     cursor: pointer;
   }
+
+  input[type="submit"], #contestantsButton{
+    font-size: medium;
+  }
+
+  input[type="submit"]:hover, #contestantsButton:hover{
+    background-color: #2a65be;
+  }
+
   li {
     list-style: none;
     margin-bottom: 10px;
@@ -59,7 +80,7 @@ body {
   }
 
   #contestants li {
-    background-color: #2d77ff;
+    background-color: #69a1f6;
     border: 2px solid black;
     padding: 10px;
     border-radius: 5px;
@@ -90,7 +111,7 @@ body {
     margin: 0 10px;
     width: 150px;
     padding: 10px;
-    background-color: #2a65be;
+    background-color: #69a1f6;
     border: 2px solid black;
     border-radius: 5px;
     text-align: center;
