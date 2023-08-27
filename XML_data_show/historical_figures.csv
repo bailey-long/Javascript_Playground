@@ -1,0 +1,486 @@
+id,name,race,caste,birth_year,death_year,associated_type
+0,egul,COLOSSUS_BRONZE,DEFAULT,-171,-1,STANDARD
+1,ves swelteredpearls,DRAGON,MALE,-210,-1,STANDARD
+2,ud yellsullies,HYDRA,MALE,-215,-1,STANDARD
+3,the bold,BIRD_ROC,FEMALE,-228,-1,STANDARD
+4,uktang,FORGOTTEN_BEAST_1,DEFAULT,-228,-1,STANDARD
+5,iru moistnessseas the dead,FORGOTTEN_BEAST_2,DEFAULT,-272,-1,STANDARD
+6,bathru depthconflicts,FORGOTTEN_BEAST_3,DEFAULT,-190,-1,STANDARD
+7,mishos washonslaught,FORGOTTEN_BEAST_4,DEFAULT,-176,-1,STANDARD
+8,kolad,FORGOTTEN_BEAST_5,DEFAULT,-283,-1,STANDARD
+9,sota,FORGOTTEN_BEAST_6,DEFAULT,-192,-1,STANDARD
+10,the dents of conflagration,FORGOTTEN_BEAST_7,DEFAULT,-206,-1,STANDARD
+11,ab,FORGOTTEN_BEAST_8,DEFAULT,-240,-1,STANDARD
+12,necate,FORGOTTEN_BEAST_9,DEFAULT,-215,-1,STANDARD
+13,the larva of filths,FORGOTTEN_BEAST_10,DEFAULT,-222,-1,STANDARD
+14,thudel,FORGOTTEN_BEAST_11,DEFAULT,-286,-1,STANDARD
+15,litheme,FORGOTTEN_BEAST_12,DEFAULT,-223,-1,STANDARD
+16,utes,FORGOTTEN_BEAST_13,DEFAULT,-193,-1,STANDARD
+17,agwa,FORGOTTEN_BEAST_14,DEFAULT,-206,-1,STANDARD
+18,tolon,FORGOTTEN_BEAST_15,DEFAULT,-204,-1,STANDARD
+19,gopet,FORGOTTEN_BEAST_16,DEFAULT,-167,-1,STANDARD
+20,simo the whirling demon,FORGOTTEN_BEAST_17,DEFAULT,-222,-1,STANDARD
+21,the umbral,FORGOTTEN_BEAST_18,DEFAULT,-196,-1,STANDARD
+22,amas murkspurt,FORGOTTEN_BEAST_19,DEFAULT,-166,-1,STANDARD
+23,spos,FORGOTTEN_BEAST_20,DEFAULT,-199,-1,STANDARD
+24,stongun the profane hag,FORGOTTEN_BEAST_21,DEFAULT,-286,-1,STANDARD
+25,arak,FORGOTTEN_BEAST_22,DEFAULT,-184,-1,STANDARD
+26,desmo gristlemines the cyst of calluses,FORGOTTEN_BEAST_23,DEFAULT,-187,-1,STANDARD
+27,atac,FORGOTTEN_BEAST_24,DEFAULT,-265,-1,STANDARD
+28,yonali,FORGOTTEN_BEAST_25,DEFAULT,-181,-1,STANDARD
+29,rafethe,FORGOTTEN_BEAST_26,DEFAULT,-202,-1,STANDARD
+30,akusm,FORGOTTEN_BEAST_27,DEFAULT,-252,-1,STANDARD
+31,zukthist the profane hollows,FORGOTTEN_BEAST_28,DEFAULT,-206,-1,STANDARD
+32,stongun,FORGOTTEN_BEAST_29,DEFAULT,-232,-1,STANDARD
+33,the soaked squid of clams,FORGOTTEN_BEAST_30,DEFAULT,-246,-1,STANDARD
+34,oreme,FORGOTTEN_BEAST_31,DEFAULT,-253,-1,STANDARD
+35,muthro minedied,FORGOTTEN_BEAST_32,DEFAULT,-271,-1,STANDARD
+36,nenpe wastedhole,FORGOTTEN_BEAST_33,DEFAULT,-225,-1,STANDARD
+37,ngopex the poisoned dead-evils,FORGOTTEN_BEAST_34,DEFAULT,-286,-1,STANDARD
+38,galka,FORGOTTEN_BEAST_35,DEFAULT,-209,-1,STANDARD
+39,zospu,FORGOTTEN_BEAST_36,DEFAULT,-265,-1,STANDARD
+40,the gnarled,FORGOTTEN_BEAST_37,DEFAULT,-265,-1,STANDARD
+41,the pebble of bait,FORGOTTEN_BEAST_38,DEFAULT,-186,-1,STANDARD
+42,nithami the lustful,FORGOTTEN_BEAST_39,DEFAULT,-245,-1,STANDARD
+43,muko dentcobra the cavernous,FORGOTTEN_BEAST_40,DEFAULT,-196,-1,STANDARD
+44,maga dreamspiders,FORGOTTEN_BEAST_41,DEFAULT,-238,-1,STANDARD
+45,thudel,FORGOTTEN_BEAST_42,DEFAULT,-240,-1,STANDARD
+46,the fated shafts,FORGOTTEN_BEAST_43,DEFAULT,-243,-1,STANDARD
+47,taritha the black,FORGOTTEN_BEAST_44,DEFAULT,-262,-1,STANDARD
+48,rupola the cavernous,FORGOTTEN_BEAST_45,DEFAULT,-287,-1,STANDARD
+49,eshgor,FORGOTTEN_BEAST_46,DEFAULT,-197,-1,STANDARD
+50,the servant of slugs,FORGOTTEN_BEAST_47,DEFAULT,-179,-1,STANDARD
+51,maga,FORGOTTEN_BEAST_48,DEFAULT,-210,-1,STANDARD
+52,iferi chuckeddented,FORGOTTEN_BEAST_49,DEFAULT,-289,-1,STANDARD
+53,siga,FORGOTTEN_BEAST_50,DEFAULT,-271,-1,STANDARD
+54,warosp the vile,FORGOTTEN_BEAST_51,DEFAULT,-252,-1,STANDARD
+55,the dead dusts,FORGOTTEN_BEAST_52,DEFAULT,-283,-1,STANDARD
+56,gened,FORGOTTEN_BEAST_53,DEFAULT,-236,-1,STANDARD
+57,dak the occult nights,FORGOTTEN_BEAST_54,DEFAULT,-177,-1,STANDARD
+58,asithi cursehex the hollow depths,FORGOTTEN_BEAST_55,DEFAULT,-238,-1,STANDARD
+59,snang the god-forsaken seducer,FORGOTTEN_BEAST_56,DEFAULT,-264,-1,STANDARD
+60,laceci tombsbeaches the oceanic,FORGOTTEN_BEAST_57,DEFAULT,-238,-1,STANDARD
+61,nire cavernhate,FORGOTTEN_BEAST_58,DEFAULT,-233,-1,STANDARD
+62,uzun the mangy sucker of holes,FORGOTTEN_BEAST_59,DEFAULT,-221,-1,STANDARD
+63,citu,FORGOTTEN_BEAST_60,DEFAULT,-177,-1,STANDARD
+64,smaspest,FORGOTTEN_BEAST_61,DEFAULT,-238,-1,STANDARD
+65,usan,FORGOTTEN_BEAST_62,DEFAULT,-282,-1,STANDARD
+66,emxa,FORGOTTEN_BEAST_63,DEFAULT,-277,-1,STANDARD
+67,os mongrelhollow,FORGOTTEN_BEAST_64,DEFAULT,-200,-1,STANDARD
+68,lini nightmarepuzzles,FORGOTTEN_BEAST_65,DEFAULT,-216,-1,STANDARD
+69,azoc the deep of poison,FORGOTTEN_BEAST_66,DEFAULT,-208,-1,STANDARD
+70,iru the great,FORGOTTEN_BEAST_67,DEFAULT,-244,-1,STANDARD
+71,ammesh speckledrulers,FORGOTTEN_BEAST_68,DEFAULT,-198,-1,STANDARD
+72,anaya spurtedsweat,FORGOTTEN_BEAST_69,DEFAULT,-255,-1,STANDARD
+73,the languishing fungus,FORGOTTEN_BEAST_70,DEFAULT,-238,-1,STANDARD
+74,ugosh the high dragon of leaders,FORGOTTEN_BEAST_71,DEFAULT,-249,-1,STANDARD
+75,zagod,FORGOTTEN_BEAST_72,DEFAULT,-200,-1,STANDARD
+76,ithiri the royal,FORGOTTEN_BEAST_73,DEFAULT,-234,-1,STANDARD
+77,nunore,FORGOTTEN_BEAST_74,DEFAULT,-257,-1,STANDARD
+78,nawo the holes of lowness,FORGOTTEN_BEAST_75,DEFAULT,-233,-1,STANDARD
+79,lipi wavedstreams the clearings of raining,TITAN_1,DEFAULT,-175,2,STANDARD
+80,the cloudy season,TITAN_2,DEFAULT,-166,-1,STANDARD
+81,stetso divedchanted the whiskered deer,TITAN_3,DEFAULT,-280,-1,STANDARD
+82,osod the fated,NIGHT_CREATURE_11,FEMALE,-176,-1,STANDARD
+83,the twilight of shade,NIGHT_CREATURE_10,MALE,-238,-1,STANDARD
+84,one fategraves,NIGHT_CREATURE_9,MALE,-281,-1,STANDARD
+85,spos tunnelumbral,NIGHT_CREATURE_8,FEMALE,-219,-1,STANDARD
+86,nelara fateburied,NIGHT_CREATURE_7,FEMALE,-209,-1,STANDARD
+87,rustu the shady twilight,NIGHT_CREATURE_6,FEMALE,-213,-1,STANDARD
+88,zutosp fatedburial the shadow of ashes,NIGHT_CREATURE_5,MALE,-262,-1,STANDARD
+89,momuz,NIGHT_CREATURE_4,MALE,-249,-1,STANDARD
+90,nekol dusktunnel,NIGHT_CREATURE_3,FEMALE,-262,-1,STANDARD
+91,fere,NIGHT_CREATURE_2,MALE,-222,-1,STANDARD
+92,oce the umbra of dusk,NIGHT_CREATURE_1,MALE,-173,-1,STANDARD
+93,the morality of rights,DWARF,MALE,-1,-1,
+94,osod the decisive,DWARF,FEMALE,-1,-1,
+95,zas tinmines the crystalline,DWARF,MALE,-1,-1,
+96,ertal the silvery,DWARF,FEMALE,-1,-1,
+97,risen the bronze-earth of oranges,DWARF,FEMALE,-1,-1,
+98,zes mountainparch,BIRD_KEA,FEMALE,-1,-1,
+99,mostod,DWARF,MALE,-1,-1,
+100,zuglar the sunken,DWARF,FEMALE,-1,-1,
+101,istrath,DWARF,FEMALE,-1,-1,
+102,the mint,DWARF,FEMALE,-1,-1,
+103,rurast,DWARF,MALE,-1,-1,
+104,endok bridgebraided,DWARF,MALE,-76,-1,BREWER
+105,edem shoottrades,DWARF,FEMALE,-73,-1,SIEGE_ENGINEER
+106,shorast pillarpacked,DWARF,FEMALE,-83,-1,ADMINISTRATOR
+107,adil ragspun,DWARF,FEMALE,-86,-1,FISHERMAN
+108,kivish vaultdepth,DWARF,MALE,-83,-1,STONECRAFTER
+109,iden gearedriddled,DWARF,MALE,-57,-1,ADMINISTRATOR
+110,bembul kisspages,DWARF,MALE,-62,-1,SPINNER
+111,tholtig blazeknife,DWARF,FEMALE,-81,-1,SIEGE_OPERATOR
+112,reg abbeyshadow,DWARF,FEMALE,-85,-1,DYER
+113,sakzul pageroughness,DWARF,FEMALE,-56,-1,MILKER
+114,atir handlelands,DWARF,FEMALE,-69,-1,HERBALIST
+115,sigun oilyglaciers,DWARF,FEMALE,-50,-1,BONE_CARVER
+116,tobul syrupthrower,DWARF,FEMALE,-56,-1,PRESSER
+117,ochresecrets the ungodly amethyst,DEMON_7,MALE,-243,-1,ADMINISTRATOR
+118,stasost brandhate,GOBLIN,FEMALE,-201,-1,FISH_DISSECTOR
+119,nako giltmenaced,GOBLIN,MALE,-283,-1,HERBALIST
+120,snodub woodmaligned,GOBLIN,MALE,-205,-1,STONEWORKER
+121,nako romanticdemons,GOBLIN,MALE,-270,-1,ANIMAL_CARETAKER
+122,snodub devilshoves,GOBLIN,MALE,-283,-1,WOODWORKER
+123,ngom seducedbulbous,GOBLIN,MALE,-269,-1,THIEF
+124,snang witchworkers,GOBLIN,MALE,-191,-1,WEAPONSMITH
+125,ngokang nightmarelarge,GOBLIN,FEMALE,-241,-1,ANIMAL_CARETAKER
+126,estrur poisonends,GOBLIN,FEMALE,-202,-1,COOK
+127,the bloated dung of tumors,HUMAN,FEMALE,-1,-1,
+128,dujan strickenlegend,HUMAN,MALE,-1,-1,
+129,the venerable,HUMAN,FEMALE,-1,-1,
+130,lomoth wickedburial,HUMAN,MALE,-1,-1,
+131,cobar,HUMAN,FEMALE,-1,-1,
+132,slenshi the cerulean,GIANT_SLUG,DEFAULT,-1,-1,
+133,lelgo cherishmonk,HUMAN,FEMALE,-1,-1,
+134,osman cavernabyss,HUMAN,MALE,-1,-1,
+135,thomo,HUMAN,MALE,-1,-1,
+136,jono,HUMAN,MALE,-1,-1,
+137,githa thinflies,HUMAN,FEMALE,-23,2,STANDARD
+138,deng flierpracticed,HUMAN,MALE,-27,2,STANDARD
+139,xim plumpear,HUMAN,MALE,-21,2,STANDARD
+140,ismir wallravens,HUMAN,MALE,-21,2,STANDARD
+141,begu straybeers,HUMAN,MALE,-23,2,STANDARD
+142,thuthu mirthfulthrown,HUMAN,FEMALE,-33,2,STANDARD
+143,tod sneakphrase,HUMAN,FEMALE,-26,2,STANDARD
+144,lum echodroplet,HUMAN,FEMALE,-28,3,STANDARD
+145,kir bellyhops,HUMAN,FEMALE,-32,2,STANDARD
+146,ebka grainswept,HUMAN,FEMALE,-32,2,STANDARD
+147,fludujromin,KOBOLD,FEMALE,-69,-1,BONE_CARVER
+148,dokofodrolder,KOBOLD,FEMALE,-73,-1,CRIMINAL
+149,plofokanger,KOBOLD,FEMALE,-51,-1,HUNTER
+150,julugloldin,KOBOLD,FEMALE,-74,-1,FURNACE_OPERATOR
+151,chriblulmis,KOBOLD,MALE,-59,-1,CRIMINAL
+152,tlotrarber,KOBOLD,FEMALE,-70,-1,THIEF
+153,strifiklayrbis,KOBOLD,MALE,-82,-1,STONECRAFTER
+154,thuthrorsner,KOBOLD,FEMALE,-68,-1,TRAPPER
+155,chlogosteelgus,KOBOLD,FEMALE,-75,-1,TRAPPER
+156,lrifiprarin,KOBOLD,FEMALE,-73,-1,RANGER
+157,aweme,,,-1,-1,
+158,ametha tressedstab,ELF,MALE,-262,-1,HERBALIST
+159,lora spraywhiskered,ELF,FEMALE,-170,-1,ANIMAL_CARETAKER
+160,olova skirtnourishes,ELF,FEMALE,-205,-1,WEAVER
+161,thelire beachedshins,ELF,FEMALE,-192,-1,ADMINISTRATOR
+162,ari bornrooter,ELF,FEMALE,-290,-1,ANIMAL_CARETAKER
+163,iru singodor,ELF,MALE,-289,-1,CLOTHIER
+164,lene squidended,ELF,FEMALE,-255,-1,HERBALIST
+165,vaci embracedrained,ELF,MALE,-250,-1,ANIMAL_CARETAKER
+166,lora riverpack,ELF,MALE,-172,-1,BOWYER
+167,ithithe phrasebeast,ELF,MALE,-194,-1,SWORDSMAN
+168,tequil,DEMON_5,DEFAULT,-256,-1,STANDARD
+169,azstrog demonbrims,GOBLIN,FEMALE,-245,1,STANDARD
+170,asno worndooms,GOBLIN,FEMALE,-231,-1,MINER
+171,zom chuckterrors,GOBLIN,FEMALE,-271,-1,DIAGNOSER
+172,olngo wraithsnake,GOBLIN,FEMALE,-271,-1,STONEWORKER
+173,smunstu tautdread,GOBLIN,FEMALE,-220,-1,MINER
+174,nako pullscourge,GOBLIN,MALE,-219,-1,FISH_DISSECTOR
+175,ngoso hatedwhiskered,GOBLIN,FEMALE,-219,-1,LYE_MAKER
+176,amxu hellfrill,GOBLIN,FEMALE,-266,-1,FISHERY_WORKER
+177,ngom wickedcage,GOBLIN,FEMALE,-236,-1,BREWER
+178,thiti moistenwash,,,-1,-1,
+179,imeva crushdune,ELF,MALE,-208,-1,WOODCRAFTER
+180,mifava divedhooves,ELF,MALE,-189,-1,HERBALIST
+181,kifino velvetromance,ELF,FEMALE,-219,-1,HERBALIST
+182,ula eaglebuff,ELF,FEMALE,-175,-1,BOWYER
+183,yarare fragrancesoothes,ELF,MALE,-281,-1,WOODCRAFTER
+184,enure soakedwaves,ELF,MALE,-270,3,STANDARD
+185,aye wealthyblossom,ELF,FEMALE,-247,-1,TRADER
+186,eletha rightshin,ELF,FEMALE,-209,-1,TRADER
+187,salore dwelledglittered,ELF,MALE,-287,-1,WEAVER
+188,nithe autumnmen,ELF,FEMALE,-273,-1,SWORDSMAN
+189,kovest the jade vault,DWARF,MALE,-1,-1,
+190,gemur,DWARF,MALE,-1,-1,
+191,atir,DWARF,FEMALE,-1,-1,
+192,the fatal,DWARF,FEMALE,-1,-1,
+193,rab,MAGMA_CRAB,FEMALE,-1,-1,
+194,nekut shadowconfused,DWARF,MALE,-1,-1,
+195,dolek earlytakers,DWARF,FEMALE,-1,-1,
+196,tumam helmedbastion,DWARF,MALE,-1,-1,
+197,vucar papershore,DWARF,MALE,-58,1,STANDARD
+198,mosus galleydance,DWARF,FEMALE,-76,-1,WOODCRAFTER
+199,shorast guildnights,DWARF,MALE,-57,-1,STRAND_EXTRACTOR
+200,lokum gilttaker,DWARF,FEMALE,-60,3,STANDARD
+201,fikod bellsfigure,DWARF,MALE,-77,-1,ANIMAL_TRAINER
+202,deler merchantbeard,DWARF,MALE,-66,3,STANDARD
+203,lokum wheeledfinds,DWARF,FEMALE,-75,-1,BOWYER
+204,zutthan floorrays,DWARF,MALE,-58,-1,SURGEON
+205,sibrek stabgirder,DWARF,FEMALE,-62,-1,BONE_SETTER
+206,dodok lashlustrous,DWARF,MALE,-86,-1,PLANTER
+207,vabok ceilingfluke,DWARF,MALE,-60,-1,ADMINISTRATOR
+208,sakzul holdbolts,DWARF,FEMALE,-51,-1,RANGER
+209,kubuk fiercefenced,DWARF,MALE,-71,1,STANDARD
+210,zebna,HUMAN,MALE,-1,-1,
+211,wimad,HUMAN,FEMALE,-1,-1,
+212,wur the tenacious flier,HUMAN,FEMALE,-1,-1,
+213,loli the climax of knowledge,HUMAN,FEMALE,-1,-1,
+214,uja the dust of tombs,HUMAN,MALE,-1,-1,
+215,bethri escortwards,HUMAN,MALE,-1,-1,
+216,adil rightpeach the heliotrope dates,HUMAN,MALE,-1,-1,
+217,sesta,HUMAN,FEMALE,-1,-1,
+218,joddo,HUMAN,MALE,-1,-1,
+219,xiza mistystrife,HUMAN,MALE,-32,-1,CLOTHIER
+220,upek coastlulls,HUMAN,FEMALE,-23,-1,PLANTER
+221,osush tressbridges,HUMAN,FEMALE,-29,-1,PUMP_OPERATOR
+222,shezpa combinetiled,HUMAN,FEMALE,-32,-1,HAMMERMAN
+223,zostra phantomsea,HUMAN,FEMALE,-23,-1,CRAFTSMAN
+224,gospo tickjungles,HUMAN,FEMALE,-27,-1,COOK
+225,athrab riddledoar,HUMAN,MALE,-34,3,STANDARD
+226,alir forestweb,HUMAN,MALE,-23,-1,CHEESE_MAKER
+227,threbe veiledknew,HUMAN,FEMALE,-32,-1,MACEMAN
+228,nedul pantsscorch,HUMAN,MALE,-27,-1,CRIMINAL
+229,mimale sealdales,,,-1,-1,
+230,olova blazesconjures,ELF,MALE,-267,-1,ANIMAL_CARETAKER
+231,vinena thorncontest,ELF,MALE,-253,-1,WOODCRAFTER
+232,nelo renowngorge,ELF,FEMALE,-212,-1,ANIMAL_CARETAKER
+233,ricote skincharms,ELF,FEMALE,-261,-1,ANIMAL_CARETAKER
+234,mafi glosstwinkle,ELF,FEMALE,-219,4,STANDARD
+235,iwethi packedbraid,ELF,MALE,-287,-1,ANIMAL_CARETAKER
+236,yarare festivehandled,ELF,MALE,-245,3,STANDARD
+237,conibo wisdomtwilight,ELF,FEMALE,-285,-1,TRADER
+238,niri prestigebirds,ELF,FEMALE,-180,-1,HERBALIST
+239,disa stasisraptors,ELF,FEMALE,-242,-1,WEAVER
+240,osram the luxurious merchants,DWARF,FEMALE,-1,-1,
+241,ingtak,DWARF,FEMALE,-1,-1,
+242,likot,DWARF,FEMALE,-1,-1,
+243,nelas,DWARF,FEMALE,-1,-1,
+244,nokgol,DWARF,FEMALE,-1,-1,
+245,duthnur,DWARF,FEMALE,-1,-1,
+246,nil flagroughness,DWARF,FEMALE,-85,-1,BEEKEEPER
+247,zuntir handletrusses,DWARF,FEMALE,-50,-1,ENGINEER
+248,ingish jungleconstructs,DWARF,MALE,-65,-1,METALCRAFTER
+249,ushrir copperheld,DWARF,MALE,-57,-1,METALSMITH
+250,sodel touchpaged,DWARF,MALE,-61,-1,SIEGE_OPERATOR
+251,ezum boltedbrother,DWARF,FEMALE,-77,-1,ENGINEER
+252,kogan figuremirrored,DWARF,FEMALE,-63,-1,MINER
+253,goden virgintomes,DWARF,FEMALE,-80,-1,FARMER
+254,asen princesshames,DWARF,MALE,-66,-1,POTASH_MAKER
+255,ushat ironattack,DWARF,FEMALE,-80,-1,CLERK
+256,zuglar modestcity,DWARF,FEMALE,-86,-1,TANNER
+257,lokum netthrone,DWARF,FEMALE,-66,-1,BONE_SETTER
+258,dumat markgorges,DWARF,FEMALE,-72,-1,STRAND_EXTRACTOR
+259,smesp the lustful,DEMON_4,DEFAULT,-281,3,STANDARD
+260,damsto doomedmortals,GOBLIN,FEMALE,-282,-1,PIKEMAN
+261,snang seducecrumbled,GOBLIN,FEMALE,-203,-1,TRADER
+262,ngebzo sinlabor,GOBLIN,FEMALE,-220,-1,COOK
+263,asno valeplagues,GOBLIN,MALE,-254,-1,MINER
+264,osta wrathhates,GOBLIN,FEMALE,-186,-1,THIEF
+265,stozu circlepoison,GOBLIN,FEMALE,-281,-1,GELDER
+266,ozud demonfroth,GOBLIN,FEMALE,-218,-1,DOCTOR
+267,ngom swallowedseduces,GOBLIN,MALE,-221,-1,METALCRAFTER
+268,tode crosshorrors,GOBLIN,MALE,-217,-1,STONEWORKER
+269,the divine good,HUMAN,FEMALE,-1,-1,
+270,otsu the snots of spurting,HUMAN,MALE,-1,-1,
+271,tamun reignednobles,HUMAN,MALE,-1,-1,
+272,subi,HUMAN,MALE,-1,-1,
+273,osman,HUMAN,FEMALE,-1,-1,
+274,awthrar the bold,HUMAN,MALE,-1,-1,
+275,sudem decenthonored,HUMAN,FEMALE,-1,-1,
+276,itvid the paddle of water,HUMAN,MALE,-1,-1,
+277,cusith glittersmiled,HUMAN,FEMALE,-1,-1,
+278,thefin beacheddoor the walled,HUMAN,MALE,-1,-1,
+279,lekla flewruns,BIRD_KEA,FEMALE,-1,-1,
+280,bisan tanbright the rock of buds,HUMAN,FEMALE,-1,-1,
+281,jeha plumwane,HUMAN,FEMALE,-27,2,STANDARD
+282,woge wettree,HUMAN,FEMALE,-31,3,STANDARD
+283,kadi luretin,HUMAN,MALE,-29,2,STANDARD
+284,imi plateford,HUMAN,FEMALE,-23,2,STANDARD
+285,atho hayband,HUMAN,MALE,-21,2,STANDARD
+286,kes tealpets,HUMAN,FEMALE,-29,2,STANDARD
+287,sutar ponderoaks,HUMAN,MALE,-25,2,STANDARD
+288,asla lancesaviors,HUMAN,FEMALE,-27,2,STANDARD
+289,tar tiredtorrid,HUMAN,MALE,-21,3,STANDARD
+290,shasttol crazyfleshy,HUMAN,MALE,-33,2,STANDARD
+291,eriya,,,-1,-1,
+292,amayi riddledtundra,ELF,FEMALE,-168,-1,CLOTHIER
+293,nisa blazeboulder,ELF,FEMALE,-255,-1,TRADER
+294,tise mothglen,ELF,FEMALE,-229,-1,CRAFTSMAN
+295,thiliri bowelfur,NIGHT_CREATURE_4,FEMALE,-197,-1,STANDARD
+296,oda livingwasp,ELF,MALE,-262,-1,BOWYER
+297,thilu steelleap,NIGHT_CREATURE_7,MALE,-289,-1,STANDARD
+298,ricote snarlingpools,ELF,MALE,-183,-1,SWORDSMAN
+299,lene fedskirt,ELF,MALE,-256,-1,BOWMAN
+300,yonali tongsembraces,ELF,MALE,-268,3,STANDARD
+301,camela motherages,ELF,FEMALE,-194,-1,WEAVER
+302,ol the color of dominion,CYCLOPS,MALE,-212,-1,STANDARD
+303,dushig the puzzling,MINOTAUR,MALE,-248,-1,STANDARD
+304,osmoz,ETTIN,FEMALE,-239,-1,STANDARD
+305,izem,GIANT,FEMALE,-250,-1,STANDARD
+306,ugsmez festivecherished,ETTIN,FEMALE,-283,-1,STANDARD
+307,okgush,MINOTAUR,FEMALE,-224,-1,STANDARD
+308,ejas charcoaltimes the green,CYCLOPS,FEMALE,-204,-1,STANDARD
+309,the sport of influences,GIANT,FEMALE,-193,-1,STANDARD
+310,esar lessonsung,ETTIN,MALE,-167,-1,STANDARD
+311,ebir boredomjaws,TROGLODYTE,FEMALE,-25,-1,STANDARD
+312,dodok sunbooks,DWARF,MALE,-65,-1,BONE_CARVER
+313,bosa horrorfree,GOBLIN,MALE,-179,-1,MASON
+314,bosa menacedwane,GOBLIN,MALE,-277,-1,CRIMINAL
+315,deler landsrelics,DWARF,FEMALE,-55,-1,MASON
+316,dostngosp wildruthless,GOBLIN,MALE,-186,-1,THIEF
+317,mato hexhands,GOBLIN,FEMALE,-215,3,STANDARD
+318,oli authorticked,HUMAN,MALE,-19,3,STANDARD
+319,gust boardhedges,HUMAN,MALE,-20,2,STANDARD
+320,sapa tangledream,HUMAN,FEMALE,-24,-1,METALCRAFTER
+321,mido smithperfect,NIGHT_CREATURE_2,FEMALE,-32,-1,STANDARD
+322,zulban laudedcloistered,DWARF,MALE,-81,1,STANDARD
+323,lokum boatechoes,DWARF,FEMALE,-63,-1,BUTCHER
+324,stosbub menacespeaker,GOBLIN,FEMALE,-196,-1,FISHERMAN
+325,damsto sinhumor,GOBLIN,MALE,-190,-1,FISH_DISSECTOR
+326,eggu woundpointed,HYENA,MALE,-3,-1,STANDARD
+327,fisu smearedways,DINGO,FEMALE,-1,-1,STANDARD
+328,smangba ruledwarned,JAGUAR,FEMALE,-3,-1,STANDARD
+329,onul warbalance,LION,MALE,-2,-1,STANDARD
+330,raji lakebasin,GIANT_CHEETAH,FEMALE,-3,-1,STANDARD
+331,oma ashhand,YETI,MALE,-455,-1,STANDARD
+332,mamica frenzyopens,DINGO,FEMALE,-3,-1,STANDARD
+333,atir whimflushed,DINGO,MALE,-2,-1,STANDARD
+334,goden godlygallows,TROLL,MALE,-440,-1,STANDARD
+335,iyaso hailrinsed,TROLL,FEMALE,-272,-1,STANDARD
+336,memrut reignblinded,WEASEL_MAN,FEMALE,-29,-1,BREWER
+337,ngerxung noiselessbad,GOBLIN,MALE,2,-1,CHILD
+338,amxu monstrousflanks,GOBLIN,FEMALE,2,-1,CHILD
+339,bilalo amberfords,ELF,MALE,2,-1,CHILD
+340,liyiyi mobpanthers,ELF,FEMALE,2,-1,CHILD
+341,ada rungvelvet,ELF,MALE,2,2,BABY
+342,thiliri ownoaks,ELF,FEMALE,2,-1,CHILD
+343,osnun wickedtrotted,GOBLIN,MALE,2,-1,CHILD
+344,stosbub tuskhatred,GOBLIN,MALE,2,-1,CHILD
+345,inefa rosysmiled,ELF,MALE,2,-1,CHILD
+346,ecu deeplizard,ELF,FEMALE,2,-1,CHILD
+347,ditari flutetwilights,ELF,FEMALE,2,-1,CHILD
+348,niri hiderake,ELF,FEMALE,2,2,BABY
+349,sitsu musicalspecial,HUMAN,FEMALE,2,-1,CHILD
+350,ono groovepicks,HUMAN,FEMALE,2,3,CHILD
+351,kadi beerstrokes,HUMAN,FEMALE,2,-1,CHILD
+352,omli copperdead,HUMAN,FEMALE,2,-1,CHILD
+353,hethre breachstop,HUMAN,MALE,2,-1,CHILD
+354,sizet twilightcradles,HUMAN,MALE,2,-1,CHILD
+355,zomuth notchlovely,HUMAN,FEMALE,2,-1,CHILD
+356,kifino fissurewhiskers,ELF,MALE,2,-1,CHILD
+357,enure sisterlulled,ELF,FEMALE,2,-1,CHILD
+358,ruyava crevicebirds,ELF,FEMALE,2,-1,CHILD
+359,ozud thiefward,GOBLIN,MALE,2,-1,CHILD
+360,someg quillswallowed,HUMAN,MALE,2,-1,CHILD
+361,nani mindfeeds,HUMAN,FEMALE,2,-1,CHILD
+362,ushav glimmeredsnacks,HUMAN,FEMALE,2,-1,CHILD
+363,ral ringcolor,DWARF,MALE,-82,-1,SPINNER
+364,bembul racklungs,DWARF,FEMALE,-76,-1,GLAZER
+365,sigun craftsword,DWARF,FEMALE,2,-1,CHILD
+366,feb whipchain,DWARF,MALE,2,-1,CHILD
+367,aban washednet,DWARF,MALE,2,-1,CHILD
+368,kulet fieldpages,DWARF,MALE,2,-1,CHILD
+369,pichluldus,KOBOLD,MALE,2,-1,CHILD
+370,erith salvetorches,DWARF,MALE,-52,-1,BONE_CARVER
+371,ral oilboots,DWARF,MALE,2,-1,CHILD
+372,vutok domaincrafted,DWARF,FEMALE,2,-1,CHILD
+373,vutok keyworks,DWARF,MALE,2,-1,CHILD
+374,sigun axebuds,DWARF,FEMALE,2,-1,CHILD
+375,aleya gearcobras,ELF,MALE,2,-1,CHILD
+376,coce lizardtrailed,ELF,MALE,2,-1,CHILD
+377,liceyi woodweavers,ELF,FEMALE,2,-1,CHILD
+378,ave pantseeds,ELF,MALE,2,-1,CHILD
+379,oddom ringbraved,DWARF,MALE,-80,-1,PUMP_OPERATOR
+380,morul lashedgulf,DWARF,MALE,2,-1,CHILD
+381,zasit glowtome,DWARF,FEMALE,2,-1,CHILD
+382,urvad strokecloistered,DWARF,MALE,2,-1,CHILD
+383,rith cloistersinged,DWARF,MALE,-74,-1,WEAPONSMITH
+384,rakust cleanlantern,DWARF,FEMALE,-52,3,STANDARD
+385,amayi finrang,ELF,FEMALE,-169,-1,WOODCRAFTER
+386,olngo seducedtoned,GOBLIN,MALE,-248,-1,CRIMINAL
+387,zolak stretchedprofane,GOBLIN,MALE,-216,-1,FISHERMAN
+388,tode flyonslaughts,GOBLIN,FEMALE,-254,-1,BONE_SETTER
+389,dostngosp hatedstopped,GOBLIN,FEMALE,-282,-1,ANIMAL_TRAINER
+390,atu beguiledscourges,GOBLIN,MALE,-254,2,STANDARD
+391,ozran,NIGHT_CREATURE_2,MALE,2,-1,CHILD
+392,marice helpedgrowled,TROLL,MALE,-342,-1,STANDARD
+393,gitoth dippedrealm,GIANT_DINGO,FEMALE,-1,-1,STANDARD
+394,kas insightslucid,TROLL,MALE,-354,-1,STANDARD
+395,bim cudgelrumor,DWARF,MALE,3,-1,CHILD
+396,eshtan lancematch,DWARF,MALE,3,-1,CHILD
+397,rovod rockpuzzles,DWARF,FEMALE,3,-1,CHILD
+398,goden lancerwarm,DWARF,MALE,3,-1,CHILD
+399,thigikibreelis,KOBOLD,FEMALE,3,-1,CHILD
+400,kristlungis,KOBOLD,MALE,3,-1,CHILD
+401,uvash mirrorurges,DWARF,MALE,3,-1,CHILD
+402,mebzuth cloisterboats,DWARF,FEMALE,3,-1,CHILD
+403,momuz pickfortune,DWARF,FEMALE,3,-1,CHILD
+404,domas rawnesssmiths,DWARF,FEMALE,3,-1,CHILD
+405,kubuk brassdies,DWARF,MALE,3,-1,CHILD
+406,tirist vesselbeach,DWARF,MALE,3,-1,CHILD
+407,urvad containedwhip,DWARF,FEMALE,3,-1,CHILD
+408,tun inklashes,DWARF,MALE,3,-1,CHILD
+409,kol tradedknowing,DWARF,MALE,3,-1,CHILD
+410,ririli jumpprincess,ELF,MALE,3,-1,CHILD
+411,epeve templeblazes,ELF,MALE,3,-1,CHILD
+412,ilime moistenedsmile,ELF,MALE,3,3,BABY
+413,cemir dutymutes,HUMAN,FEMALE,3,-1,CHILD
+414,ilre sculptscars,HUMAN,MALE,3,-1,CHILD
+415,mas heavensmasters,HUMAN,MALE,3,-1,CHILD
+416,stasost swordghouls,GOBLIN,FEMALE,3,-1,CHILD
+417,ozud seducedpride,GOBLIN,FEMALE,3,-1,CHILD
+418,snang thiefstraps,GOBLIN,FEMALE,3,-1,CHILD
+419,stozu savantruthless,GOBLIN,FEMALE,3,-1,CHILD
+420,sidaya heatedgully,ELF,MALE,3,-1,CHILD
+421,eletha lustrousislands,ELF,MALE,3,-1,CHILD
+422,eliye smithbeards,ELF,MALE,3,-1,CHILD
+423,nino tonebuds,ELF,MALE,3,-1,CHILD
+424,thaci packedtufts,ELF,FEMALE,3,-1,CHILD
+425,nawara spreadriver,ELF,MALE,3,-1,CHILD
+426,dimati tuskchuck,ELF,MALE,3,-1,CHILD
+427,imimi woodenwound,ELF,FEMALE,3,-1,CHILD
+428,mame tiprain,ELF,FEMALE,3,-1,CHILD
+429,themiyi blossomgrowl,ELF,FEMALE,3,-1,CHILD
+430,atu badbudded,GOBLIN,FEMALE,3,-1,CHILD
+431,osnun thiefstrokes,GOBLIN,MALE,3,-1,CHILD
+432,ngom stealheal,GOBLIN,FEMALE,3,-1,CHILD
+433,usbu sinmyth,GOBLIN,FEMALE,-281,-1,COOK
+434,uja cloudrain,HUMAN,MALE,-25,3,STANDARD
+435,tode buckhorror,GOBLIN,FEMALE,-175,-1,TRADER
+436,snamoz badsneer,GOBLIN,MALE,-214,-1,DOCTOR
+437,threbe endedgifts,HUMAN,FEMALE,-18,3,STANDARD
+438,fewetha skygoals,ELF,FEMALE,-218,-1,BOWYER
+439,zom murkfiend,GOBLIN,FEMALE,-232,-1,CROSSBOWMAN
+440,kulur,NIGHT_CREATURE_7,FEMALE,3,-1,CHILD
+441,momuz,NIGHT_CREATURE_4,MALE,3,-1,CHILD
+442,atog peakflew,JABBERER,FEMALE,-1,-1,STANDARD
+443,nepe lonesomewhirled,VORACIOUS_CAVE_CRAWLER,FEMALE,-2,-1,STANDARD
+444,eru crestedbean,MOLEMARIAN,MALE,-3,-1,STANDARD
+445,logem boredbronze,DWARF,MALE,4,-1,CHILD
+446,zasit steeltakes,DWARF,FEMALE,4,-1,CHILD
+447,fath rackbold,DWARF,FEMALE,4,-1,CHILD
+448,dang roundlies,GOBLIN,FEMALE,4,-1,CHILD
+449,ngom voidsteal,GOBLIN,MALE,4,-1,CHILD
+450,kufufudreeris,KOBOLD,MALE,4,-1,CHILD
+451,zon roomboot,DWARF,MALE,4,-1,CHILD
+452,mafol curldyes,DWARF,MALE,4,-1,CHILD
+453,fikod dyebulbous,DWARF,MALE,4,-1,CHILD
+454,aban silvermarked,DWARF,FEMALE,4,-1,CHILD
+455,melbil gearedbolted,DWARF,MALE,-55,-1,FISH_DISSECTOR
+456,likot questbrass,DWARF,MALE,-65,-1,WOODWORKER
+457,zon staffzenith,DWARF,FEMALE,4,-1,CHILD
+458,vucar tradefang,DWARF,MALE,4,4,BABY
+459,kib sprinklerooms,DWARF,MALE,4,-1,CHILD
+460,stukos drinksyrup,DWARF,FEMALE,4,-1,CHILD
+461,azstrog grimfell,GOBLIN,FEMALE,4,-1,CHILD
+462,ngerxung clutchmonsters,GOBLIN,FEMALE,4,-1,CHILD
+463,ricote smilepeak,ELF,FEMALE,4,-1,CHILD
+464,lefari cherishtuft,ELF,FEMALE,4,-1,CHILD
+465,nine larkbitten,ELF,FEMALE,4,-1,CHILD
+466,yemi practicemosses,ELF,FEMALE,4,4,BABY
+467,covema smiledballs,ELF,MALE,4,4,BABY
+468,olngo stealringed,GOBLIN,FEMALE,4,-1,CHILD
+469,nguslu clinchdoomed,GOBLIN,MALE,4,-1,CHILD
+470,bax lustfuldooms,GOBLIN,FEMALE,4,-1,CHILD
+471,thad glitterriver,HUMAN,MALE,4,-1,CHILD
+472,ucim cutbrains,HUMAN,MALE,-30,4,STANDARD
+473,senre leafbrass,HUMAN,FEMALE,-19,4,STANDARD
+474,minkot staffnames,DWARF,MALE,-46,-1,BOOKBINDER
+475,urdim ringcry,DWARF,FEMALE,-78,-1,SHEARER
+476,gathre townnut,HUMAN,FEMALE,-29,4,STANDARD
+477,ishas boltedlives,HUMAN,FEMALE,-27,4,STANDARD
+478,sigun bootfolded,DWARF,FEMALE,-63,-1,MECHANIC
+479,zaneg cloistergilt,DWARF,MALE,-58,-1,SURGEON
+480,apuk motherpanthers,HUMAN,MALE,-17,-1,STANDARD
+481,bomrek whimsattics,DWARF,FEMALE,-63,-1,MILLER
+482,zuglar twotongs,DWARF,FEMALE,-52,-1,POTASH_MAKER
+483,zulur parchednotched,HUMAN,FEMALE,-15,-1,ANIMAL_CARETAKER
+484,omon foldegg,HUMAN,FEMALE,-16,-1,PRESSER

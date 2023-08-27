@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dwarf Legends XML Display</title>
+</head>
+<body>
+    <h1>Dwarf Legends XML Data</h1>
+    <div id="xmlContent"></div>
+
+    <script>
+        // Fetch the XML data from the file
+        fetch('dwarflegends.xml')
+            .then(response => response.text())
+            .then(xmlData => {
+                console.log("Found xml file")
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlData, 'application/xml');
+                displayXML(xmlDoc);
+            })
+            .catch(error => {
+                console.error('Error fetching XML:', error);
+            });
+
+        // Function to display the XML content
+        function displayXML(xmlDoc) {
+            const xmlContentDiv = document.getElementById('xmlContent');
+            const regions = xmlDoc.querySelectorAll('region');
+
+            regions.forEach(region => {
+                const id = region.querySelector('id').textContent;
+                const name = region.querySelector('name').textContent;
+                const type = region.querySelector('type').textContent;
+
+                const regionDiv = document.createElement('div');
+                regionDiv.innerHTML = `
+                    <p><strong>ID:</strong> ${id}</p>
+                    <p><strong>Name:</strong> ${name}</p>
+                    <p><strong>Type:</strong> ${type}</p>
+                `;
+
+                xmlContentDiv.appendChild(regionDiv);
+            });
+        }
+    </script>
+</body>
+</html>
