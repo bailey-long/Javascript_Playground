@@ -2,45 +2,38 @@
 <html>
 <head>
     <title>Dwarf Legends XML Display</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Dwarf Legends XML Data</h1>
-    <div id="xmlContent"></div>
+    <h1>CSV Data</h1>
+    <div class="tables">
+        <div class="regions">
+            <h2>Regions</h2>
+            <table id="regionsTable">
+                <thead>
+                    <!-- Header row will be populated dynamically -->
+                </thead>
+                <tbody>
+                    <!-- Data rows will be populated dynamically -->
+                </tbody>
+            </table>
+        </div>
 
-    <script>
-        // Fetch the XML data from the file
-        fetch('dwarflegends.xml')
-            .then(response => response.text())
-            .then(xmlData => {
-                console.log("Found xml file")
-                const parser = new DOMParser();
-                const xmlDoc = parser.parseFromString(xmlData, 'application/xml');
-                displayXML(xmlDoc);
-            })
-            .catch(error => {
-                console.error('Error fetching XML:', error);
-            });
+        <div class="historicalFigures">
+            <h2>Historical Figures</h2>
+            <table id="historicalFiguresTable">
+                <thead>
+                    <!-- Header row will be populated dynamically -->
+                </thead>
+                <tbody>
+                    <!-- Data rows will be populated dynamically -->
+                </tbody>
+            </table>
+        </div>
+    </div>
 
-        // Function to display the XML content
-        function displayXML(xmlDoc) {
-            const xmlContentDiv = document.getElementById('xmlContent');
-            const regions = xmlDoc.querySelectorAll('region');
+    <script src="app.js"></script>
 
-            regions.forEach(region => {
-                const id = region.querySelector('id').textContent;
-                const name = region.querySelector('name').textContent;
-                const type = region.querySelector('type').textContent;
-
-                const regionDiv = document.createElement('div');
-                regionDiv.innerHTML = `
-                    <p><strong>ID:</strong> ${id}</p>
-                    <p><strong>Name:</strong> ${name}</p>
-                    <p><strong>Type:</strong> ${type}</p>
-                `;
-
-                xmlContentDiv.appendChild(regionDiv);
-            });
-        }
-    </script>
 </body>
 </html>
